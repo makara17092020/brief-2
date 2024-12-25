@@ -1,0 +1,28 @@
+body {
+    font-family: "oswold", sans-serif;
+  }
+  
+  header {
+    background: #fee715;
+  }
+  
+  
+  .navbar-brand,
+  .text-primary {
+    color: black;
+    /* font-weight: bold;
+    font-size: 30px; */
+  }
+  
+  .masthead {
+    background-size: cover;
+    min-height: 100vh;
+  }
+  .nav-item {
+    margin-right: 80px;
+  }
+  
+  
+  
+  
+  
